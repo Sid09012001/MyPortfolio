@@ -60,7 +60,7 @@ a{
 }
 @media only screen and (min-width: 768px) {
   .bg-img{
-    background-image: url("images/desktop.png");
+    background-image: url("./Images/desktop.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -97,7 +97,7 @@ a{
 }
 @media only screen and (max-width: 768px) {
   .bg-img{
-    background-image: url("images/android.png");
+    background-image: url("./Images/Profile.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
